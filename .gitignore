@@ -1,0 +1,7 @@
+__pycache__/
+build/
+dist/
+sendMail/__pycache__/
+*.spec
+MANIFEST.in
+notes.txt
