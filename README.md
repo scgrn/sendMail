@@ -26,7 +26,7 @@ To, subject, and body are required.
 Returns 0 on success or 1 on failure
 
 ## License:
-Distributed under the MIT License. See [`LICENSE.txt`](LICENSE.txt) for more information.
+Distributed under the MIT License. See [`LICENSE.txt`](https://github.com/scgrn/sendMail/blob/main/LICENSE) for more information.
 
 ## Contact:
 Andrew Krause - ajkrause@gmail.com
