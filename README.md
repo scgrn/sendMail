@@ -1,6 +1,8 @@
 # sendMail
 
-A utility to send email from the Windows command line. (Not to be confused with [Sendmail](https://en.wikipedia.org/wiki/Sendmail))
+A utility to send email from the Windows command line. Useful for automation workflows!
+
+(Not to be confused with [Sendmail](https://en.wikipedia.org/wiki/Sendmail))
 
 Builds with [pyinstaller](https://github.com/pyinstaller/pyinstaller).
 
