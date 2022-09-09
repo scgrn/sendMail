@@ -23,7 +23,7 @@ Parameter | Usage
 --attachments | Attachment paths (semicolon delimited)
 --edit | Open draft instead of immediately sending
 
-To, subject, and body are required.
+To, subject, and body are required. Note that there is a shocking lack of error checking here, use at your own risk!
 
 Returns 0 on success or 1 on failure
 
